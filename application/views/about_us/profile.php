@@ -8,7 +8,7 @@
                    <h3 class="page-title">
                      Profile
                    </h3>
-                   
+                   <hr>
                    <!-- END PAGE TITLE & BREADCRUMB-->
                </div>
             </div>
@@ -17,7 +17,7 @@
             <div class="row-fluid">
                 <div class="span12">
                 <!-- BEGIN EXAMPLE TABLE widget-->
-                <div class="widget green">
+                <div class="widget black">
                         <div class="widget-title">
                             <h4><i class="icon-reorder"></i> Tambah Data Karyawan </h4>
 							
