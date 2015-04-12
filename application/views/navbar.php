@@ -35,9 +35,9 @@
                       <span class="arrow"></span>
                   </a>
                   <ul class="sub">
-                      <li><a class="" href="#">Consulting</a></li>
-                      <li><a class="" href="#">Research</a></li>
-                      <li><a class="" href="#">Training</a></li>
+                      <li><a class="" href="<?php echo base_url();?>dashboard/consulting">Consulting</a></li>
+                      <li><a class="" href="<?php echo base_url();?>dashboard/research">Research</a></li>
+                      <li><a class="" href="<?php echo base_url();?>dashboard/training">Training</a></li>
                   </ul>
               </li>
 			  <li class="sub-menu">
