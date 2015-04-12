@@ -40,7 +40,7 @@
 							<div class="control-group">
                                 <label class="control-label">Detail</label>
                                 <div class="controls">
-                                    <textarea class="span6 " name="detail" /></textarea>
+                                    <textarea class="span12 wysihtmleditor5" rows="5" name="detail" /></textarea>
                                 </div>
                             </div>
 							<div class="control-group">
@@ -60,7 +60,7 @@
 							<div class="control-group">
                                 <label class="control-label">Uraian</label>
                                 <div class="controls">
-                                    <textarea class="span6 " name="uraian" /></textarea>
+                                    <textarea class="span12 wysihtmleditor5" rows="5" name="uraian" /></textarea>
                                 </div>
                             </div>
 							<div class="control-group">

@@ -3,7 +3,7 @@
 class App_model extends CI_Model{
 
 	function auth($user,$pass){
-		$check = $this->db->query("select * from tbl_useradmin where username='$user' and password='$pass'");
+		$check = $this->db->query("select * from user_admin where user='$user' and pass='$pass'");
 		return $check;
 	}	
 	
