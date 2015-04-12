@@ -72,10 +72,13 @@
 	   
        <!-- END TOP NAVIGATION BAR -->
    </div>
-
+	
    <!-- END HEADER -->
    <!-- BEGIN CONTAINER -->
    <div id="container" class="row-fluid">
+    <div>
+	&nbsp;
+	</div>
       <!-- BEGIN SIDEBAR -->
       <div class="sidebar-scroll">
         <div id="sidebar" class="nav-collapse collapse">
@@ -98,7 +101,7 @@
    <!-- END CONTAINER -->
 
    <!-- BEGIN FOOTER -->
-   <div id="footer" style="background:#5E5E5E;color:white">
+   <div id="footer" style="background:#e5e5e5;color:black">
        Copyright &copy; 2015 BangunKapasitas.co.id. Supported By Sinergi Cakra Sinatrya
    </div>
    <!-- END FOOTER -->
