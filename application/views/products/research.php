@@ -19,7 +19,7 @@
                 <!-- BEGIN EXAMPLE TABLE widget-->
                 <div class="widget black">
                         <div class="widget-title">
-                            <h4><i class="icon-reorder"></i>Consulting</h4>
+                            <h4><i class="icon-reorder"></i> Research </h4>
 							
 						</div>
                         <div class="widget-body">
