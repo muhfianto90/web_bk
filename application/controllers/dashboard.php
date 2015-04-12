@@ -57,6 +57,11 @@ class Dashboard extends CI_Controller {
 		redirect('dashboard/data_pelanggaran');
 	}
 	
+	function profile(){
+		$data['page'] = 'about_us/profile';
+		$this->load->view('template',$data);
+	}
+	
 }
 
 
