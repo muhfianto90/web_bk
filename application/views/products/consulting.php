@@ -6,7 +6,7 @@
                <div class="span12">
                   <!-- BEGIN PAGE TITLE & BREADCRUMB-->
                    <h3 class="page-title">
-                     Profile
+                     Consulting
                    </h3>
                    <hr>
                    <!-- END PAGE TITLE & BREADCRUMB-->
@@ -19,7 +19,7 @@
                 <!-- BEGIN EXAMPLE TABLE widget-->
                 <div class="widget black">
                         <div class="widget-title">
-                            <h4><i class="icon-reorder"></i> Profile </h4>
+                            <h4><i class="icon-reorder"></i> Consulting </h4>
 							
 						</div>
                         <div class="widget-body">
