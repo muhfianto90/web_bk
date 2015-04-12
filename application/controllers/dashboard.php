@@ -61,14 +61,12 @@ class Dashboard extends CI_Controller {
 		$data['page'] = 'about_us/profile';
 		$this->load->view('template',$data);
 	}
-	
-<<<<<<< HEAD
+
 	function professional(){
 		$data['page'] = 'inspirator/professional';
 		$this->load->view('template',$data);
 	}
-	
-=======
+
 	function vision(){
 		$data['page'] = 'about_us/vision';
 		$this->load->view('template',$data);
@@ -93,7 +91,7 @@ class Dashboard extends CI_Controller {
 		$data['page'] = 'products/training';
 		$this->load->view('template',$data);
 	}
->>>>>>> 8e0136db66423baff3cd4b72f1aacc2c22f140d6
+
 }
 
 

@@ -101,7 +101,7 @@
    <!-- END CONTAINER -->
 
    <!-- BEGIN FOOTER -->
-   <div id="footer" style="background:#5E5E5E;color:white">
+   <div id="footer" style="background:#e5e5e5;color:black">
        Copyright &copy; 2015 BangunKapasitas.co.id. Supported By Sinergi Cakra Sinatrya
    </div>
    <!-- END FOOTER -->
