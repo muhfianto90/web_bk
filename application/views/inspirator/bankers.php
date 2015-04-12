@@ -6,7 +6,7 @@
                <div class="span12">
                   <!-- BEGIN PAGE TITLE & BREADCRUMB-->
                    <h3 class="page-title">
-                    Professional
+                 Bankers
                    </h3>
                    
                    <!-- END PAGE TITLE & BREADCRUMB-->
@@ -20,11 +20,11 @@
                 <!-- BEGIN EXAMPLE TABLE widget-->
                 <div class="widget black">
                     <div class="widget-title">
-                        <h4><i class="icon-reorder"></i> Professional</h4>
+                        <h4><i class="icon-reorder"></i> Bankers</h4>
                             
                     </div>
                     <div class="widget-body">
-					<a href="<?php echo base_url();?>dashboard/tambah_data_professional"><button class="btn btn-success"><i class="icon-plus icon-white" ></i> Tambah Data</button></a><br><br></style>
+					<a href="<?php echo base_url();?>dashboard/tambah_data_bankers"><button class="btn btn-success"><i class="icon-plus icon-white" ></i> Tambah Data</button></a><br><br></style>
 					
                         <table class="table table-striped table-bordered" id="sample_1">
                             <thead>

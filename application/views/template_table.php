@@ -21,31 +21,53 @@
     <link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/assets/uniform/css/uniform.default.css" />
 
 </head>
+<style>
+.red_bg{
+	background:background: #f20c0c; /* Old browsers */
+	background: -moz-linear-gradient(top,  #f20c0c 0%, #c10909 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f20c0c), color-stop(100%,#c10909)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #f20c0c 0%,#c10909 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #f20c0c 0%,#c10909 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #f20c0c 0%,#c10909 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #f20c0c 0%,#c10909 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f20c0c', endColorstr='#c10909',GradientType=0 ); /* IE6-9 */			
+}
+
+</style>
 <!-- END HEAD -->
 <!-- BEGIN BODY -->
 <body class="fixed-top">
    <!-- BEGIN HEADER -->
    <div id="header" class="navbar navbar-inverse navbar-fixed-top">
        <!-- BEGIN TOP NAVIGATION BAR -->
-       <div class="navbar-inner">
-           <div class="container-fluid">
+       <div class="navbar-inner red_bg">
+           <div class="container-fluid red_bg">
                <!--BEGIN SIDEBAR TOGGLE-->
-               <div class="sidebar-toggle-box hidden-phone">
+               <div class="sidebar-toggle-box hidden-phone red_bg">
                    <div class="icon-reorder"></div>
                </div>
                <!--END SIDEBAR TOGGLE-->
                <!-- BEGIN LOGO -->
-               <a class="brand" href="<?php echo base_url();?>" style="color:white;font-size:13pt">
-                   <!--img src="<?php echo base_url();?>assets/img/logo.png" /-->
-				   Bangun Perkasa
-               </a>
+                   <img src="<?php echo base_url();?>assets/img/logo.png" style="margin-top:6px" />
+				   
+				    
+               
+               <!-- END LOGO -->
                <!-- END LOGO -->
                <!-- BEGIN RESPONSIVE MENU TOGGLER -->
-               <a class="btn btn-navbar collapsed" id="main_menu_trigger" data-toggle="collapse" data-target=".nav-collapse">
+               <a class="btn btn-navbar collapsed" id="main_menu_trigger" data-toggle="collapse" data-target=".nav-collapse" style="background:background: #f20c0c; /* Old browsers */
+				background: -moz-linear-gradient(top,  #f20c0c 0%, #c10909 100%); /* FF3.6+ */
+				background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f20c0c), color-stop(100%,#c10909)); /* Chrome,Safari4+ */
+				background: -webkit-linear-gradient(top,  #f20c0c 0%,#c10909 100%); /* Chrome10+,Safari5.1+ */
+				background: -o-linear-gradient(top,  #f20c0c 0%,#c10909 100%); /* Opera 11.10+ */
+				background: -ms-linear-gradient(top,  #f20c0c 0%,#c10909 100%); /* IE10+ */
+				background: linear-gradient(to bottom,  #f20c0c 0%,#c10909 100%); /* W3C */
+				filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f20c0c', endColorstr='#c10909',GradientType=0 ); /* IE6-9 */	">
                    <span class="icon-bar"></span>
                    <span class="icon-bar"></span>
                    <span class="icon-bar" style="margin-bottom:3px"></span>
                </a>
+               <!-- END RESPONSIVE MENU TOGGLER -->
               
                
            </div>
