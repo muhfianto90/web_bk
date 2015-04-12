@@ -61,11 +61,6 @@ class Dashboard extends CI_Controller {
 		$data['page'] = 'about_us/profile';
 		$this->load->view('template',$data);
 	}
-<<<<<<< HEAD
-	
-=======
-
->>>>>>> e8607d2ea50125c6c99b58542dfbe8ae5869490d
 	function professional(){
 		$data['page'] = 'inspirator/professional';
 		$this->load->view('template_table',$data);
@@ -85,7 +80,6 @@ class Dashboard extends CI_Controller {
 		$data['page'] = 'inspirator/tambah_data_expert';
 		$this->load->view('template',$data);
 	}
-<<<<<<< HEAD
 	
 	function bankers(){
 		$data['page'] = 'inspirator/bankers';
@@ -97,9 +91,8 @@ class Dashboard extends CI_Controller {
 		$this->load->view('template_table',$data);
 	}
 	
-=======
 
->>>>>>> e8607d2ea50125c6c99b58542dfbe8ae5869490d
+
 	function vision(){
 		$data['page'] = 'about_us/vision';
 		$this->load->view('template',$data);
@@ -124,14 +117,11 @@ class Dashboard extends CI_Controller {
 		$data['page'] = 'products/training';
 		$this->load->view('template',$data);
 	}
-<<<<<<< HEAD
-=======
 	
 	function clients(){
 		$data['page'] = 'clients/clients';
 		$this->load->view('template',$data);
 	}
->>>>>>> e8607d2ea50125c6c99b58542dfbe8ae5869490d
 
 }
 
