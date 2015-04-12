@@ -24,8 +24,8 @@
                   </a>
                   <ul class="sub">
                       <li><a class="" href="<?php echo base_url();?>dashboard/profile">Profile</a></li>
-                      <li><a class="" href="#">Vision</a></li>
-                      <li><a class="" href="#">People</a></li>
+                      <li><a class="" href="<?php echo base_url();?>dashboard/vision">Vision</a></li>
+                      <li><a class="" href="<?php echo base_url();?>dashboard/people">People</a></li>
                   </ul>
               </li>
 			  <li class="sub-menu">
