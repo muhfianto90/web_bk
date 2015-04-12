@@ -47,9 +47,9 @@
                       <span class="arrow"></span>
                   </a>
                   <ul class="sub">
-                      <li><a class="" href="#">Professional</a></li>
-                      <li><a class="" href="#">Bankers</a></li>
-                      <li><a class="" href="#">Expert</a></li>
+                      <li><a class="" href="<?php echo base_url();?>dashboard/professional">Professional</a></li>
+                      <li><a class="" href="<?php echo base_url();?>dashboard/bankers">Bankers</a></li>
+                      <li><a class="" href="<?php echo base_url();?>dashboard/expert">Expert</a></li>
                   </ul>
               </li>
 			  <li class="sub-menu">

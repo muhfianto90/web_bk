@@ -17,7 +17,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | environments.
 |
 */
-$config['base_url'] = 'http://localhost/projects/bangunkapasitas/';
+
+$config['base_url'] = 'http://localhost/projects/bangun_kapasitas/';
+
 
 /*
 |--------------------------------------------------------------------------
