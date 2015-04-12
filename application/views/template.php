@@ -72,10 +72,13 @@
 	   
        <!-- END TOP NAVIGATION BAR -->
    </div>
-
+	
    <!-- END HEADER -->
    <!-- BEGIN CONTAINER -->
    <div id="container" class="row-fluid">
+    <div>
+	&nbsp;
+	</div>
       <!-- BEGIN SIDEBAR -->
       <div class="sidebar-scroll">
         <div id="sidebar" class="nav-collapse collapse">
