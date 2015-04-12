@@ -66,7 +66,7 @@
                   </ul>
               </li>
 			  <li>
-                  <a class="" href="<?php echo base_url();?>">
+                  <a class="" href="<?php echo base_url();?>dashboard/clients">
                       <i class="icon-user"></i>
                       <span>Clients</span>
                   </a>

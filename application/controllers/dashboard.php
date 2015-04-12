@@ -91,6 +91,11 @@ class Dashboard extends CI_Controller {
 		$data['page'] = 'products/training';
 		$this->load->view('template',$data);
 	}
+	
+	function clients(){
+		$data['page'] = 'clients/clients';
+		$this->load->view('template',$data);
+	}
 
 }
 
