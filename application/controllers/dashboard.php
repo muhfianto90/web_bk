@@ -62,6 +62,15 @@ class Dashboard extends CI_Controller {
 		$this->load->view('template',$data);
 	}
 	
+	function vision(){
+		$data['page'] = 'about_us/vision';
+		$this->load->view('template',$data);
+	}
+	
+	function people(){
+		$data['page'] = 'about_us/people';
+		$this->load->view('template',$data);
+	}
 }
 
 
